@@ -24,5 +24,10 @@ jobs:
       )
     secrets: inherit
     with:
+      docker_runs_on: >
+        {
+          "linux/amd64": ["self-hosted","X64"],
+          "linux/arm64": ["self-hosted","ARM64"]
+        }
       docker_images: ghcr.io/balena-io-modules/confd-releases
       bake_targets: confd-v0-16-0
