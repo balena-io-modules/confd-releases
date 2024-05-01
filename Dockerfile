@@ -1,5 +1,8 @@
 # https://github.com/kelseyhightower/confd/blob/master/docs/installation.md
-FROM golang:1.10.2 AS build
+FROM golang:1.10.2-alpine AS build
+
+# hadolint ignore=DL3018
+RUN apk add --no-cache git bzip2 make
 
 ARG CONFD_VERSION=v0.16.0
 ARG CGO_ENABLED=0
