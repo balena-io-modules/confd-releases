@@ -1,0 +1,14 @@
+- commits:
+    - subject: Build on self-hosted github runners
+      hash: 092c08e8f854dae537960401995c303edd3bf7db
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Kyle Harding <kyle@balena.io>
+        signed-off-by: Kyle Harding <kyle@balena.io>
+      author: Kyle Harding
+      nested: []
+  version: 0.0.2
+  title: ""
+  date: 2024-05-01T19:16:31.612Z
