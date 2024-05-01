@@ -1,4 +1,18 @@
 - commits:
+    - subject: Build for armv7 and armv6
+      hash: 13d44206c05c8a576380feb53db1492e9b4eb384
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Kyle Harding <kyle@balena.io>
+        signed-off-by: Kyle Harding <kyle@balena.io>
+      author: Kyle Harding
+      nested: []
+  version: 0.0.3
+  title: ""
+  date: 2024-05-01T20:27:49.093Z
+- commits:
     - subject: Build on self-hosted github runners
       hash: 092c08e8f854dae537960401995c303edd3bf7db
       body: ""
