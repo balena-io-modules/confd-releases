@@ -26,10 +26,10 @@ jobs:
     with:
       docker_runs_on: >
         {
-          "linux/amd64": ["self-hosted","X64"],
-          "linux/arm64": ["self-hosted","ARM64"],
-          "linux/arm/v7": ["self-hosted","ARM64"],
-          "linux/arm/v6": ["self-hosted","ARM64"]
+          "linux/amd64": ["actuated-4cpu-16gb"],
+          "linux/arm64": ["actuated-arm64-4cpu-16gb"],
+          "linux/arm/v7": ["actuated-arm64-4cpu-16gb"],
+          "linux/arm/v6": ["actuated-arm64-4cpu-16gb"]
         }
       docker_images: ghcr.io/balena-io-modules/confd-releases
       bake_targets: confd-v0-16-0
