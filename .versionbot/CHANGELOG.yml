@@ -1,4 +1,18 @@
 - commits:
+    - subject: Build on Actuated runners
+      hash: 82a156401eb2b8f60713a64bd3e3e576c3bb6fed
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Kyle Harding <kyle@balena.io>
+        signed-off-by: Kyle Harding <kyle@balena.io>
+      author: Kyle Harding
+      nested: []
+  version: 0.0.4
+  title: ""
+  date: 2024-05-09T16:33:12.853Z
+- commits:
     - subject: Build for armv7 and armv6
       hash: 13d44206c05c8a576380feb53db1492e9b4eb384
       body: ""
