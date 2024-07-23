@@ -1,4 +1,15 @@
 - commits:
+    - subject: Switch to self-hosted
+      hash: 4360af5765d072d25a13bc1d8616abede9da8fa4
+      body: ""
+      footer:
+        change-type: patch
+      author: Anton Belodedenko
+      nested: []
+  version: 0.0.5
+  title: ""
+  date: 2024-07-23T18:46:02.740Z
+- commits:
     - subject: Build on Actuated runners
       hash: 82a156401eb2b8f60713a64bd3e3e576c3bb6fed
       body: ""
