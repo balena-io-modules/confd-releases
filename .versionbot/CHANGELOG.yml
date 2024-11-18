@@ -1,4 +1,15 @@
 - commits:
+    - subject: Explicitly set GH_TOKEN permissions
+      hash: 1b24876cffded69ebe977c6b7287d34cc327d309
+      body: ""
+      footer:
+        change-type: patch
+      author: Anton Belodedenko
+      nested: []
+  version: 0.0.6
+  title: ""
+  date: 2024-11-18T20:38:50.599Z
+- commits:
     - subject: Switch to self-hosted
       hash: 4360af5765d072d25a13bc1d8616abede9da8fa4
       body: ""
